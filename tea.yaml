@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MetaMask Payment Example</title>
+    <script src="https://cdn.jsdelivr.net/gh/ethjs/ethjs/dist/ethjs.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
+  </head>
+  <body>
+    <button id="payButton">Pay with MetaMask</button>
+
